@@ -1,0 +1,10 @@
+#pricingPage{
+    height: 90vh;
+    background-image: url(./../resources/dimguy.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+ul{
+    margin-left: 5vw;
+    list-style-image: url(./../resources/check.png);
+}

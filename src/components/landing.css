@@ -1,0 +1,53 @@
+*{
+    font-family: './../resources/Roboto/Roboto-Black.ttf', sans-serif;
+}
+
+#body{
+    height: 90vh;
+    overflow: hidden;
+    display: flex;
+}
+
+#svgGuy{
+    width: 50%;
+}
+
+#textColumn{
+    width: 50%;
+}
+
+#homeLine{
+    color: #FF7F2A;
+    width: 80%;
+    font-size: 3vmax;
+    font-weight: 900;
+    margin-top: 20vh;
+}
+
+#info{
+    color: #555;
+    margin-top: 3vh;
+    margin-bottom: 5vh;
+    font-size: 1.2vmax;
+    width: 50%;   
+}
+
+#colorWhy{
+    color: #FF7F2A;
+}
+
+#getStarted{
+    color: #fff;
+    background-color: #AA0000;
+    width: 25%;
+    padding: 1.5vh;
+    border: none;
+    border-radius: 10px;
+
+}
+
+#cloud{
+    width: 100%;
+    margin-top: -3vh;
+    margin-left: 3vw;
+}

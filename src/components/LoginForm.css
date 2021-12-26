@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.input{
+    display: block; 
+    width: 20vw;
+    background-color:  #EEE;
+    margin: 3vh 5vw;
+    padding: 2vh;
+    border: none;
+    border-radius: 2px;
+    font-weight: 300;
+    font-size: 1vmax;
+
+}
+
+.input:focus{
+    outline: none;
+    background-color : #555555; 
+    color:white;
+}
+
+
+#login_container{
+    height: 90vh;
+    overflow: hidden;
+    display: flex;
+}
+
+#loginformTextFieldContainer{
+    display: block;
+    width: 50vw;
+}
+
+#dontMatch{
+    color: #fff;
+    font-size: 1.4vmax;
+    margin-left: 8vw;
+    margin-bottom: 2vh;
+
+}
+
+
+#loginformLoginButton{
+    color:white;
+    width: 10vw;
+    background-color: #AB0404;
+    margin-left: 10vw;
+    padding: 1vh 0;
+    border: none; 
+    border-radius: 10px;
+    font-weight: 900;
+    font-size: 1vmax;
+}
+
+#loginformLoginButton:hover{
+    color:white;
+    background-color: #555555;
+}
+
+
+#Title{
+    color: #FF7F2A;
+    width: 40vw;
+    font-size: 3vmax;
+    font-weight: 900;
+    margin-top: 15vh;
+    margin-bottom: 5vh;
+    margin-left:8vw;
+}
+
+#clouding{
+    margin-left: 3vw;
+}
+
+
