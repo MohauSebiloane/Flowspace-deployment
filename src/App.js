@@ -8,7 +8,7 @@ import Features from './components/features';
 import Templates from './components/templates'
 import Resources from './components/resources'
 import Pricing from './components/pricing'
-import LoginForm from './components/loginForm'
+import LoginForm from './components/LoginForm'
 import Download from './components/download'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
